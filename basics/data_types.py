@@ -1,5 +1,9 @@
-name = input("Enter your name: ")
-age = int(input("Enter your age: "))
+name = "Anshu Singh"
+age = 20
+prize = 90.50
+is_student = True
 
-print("Your name is: ", name)
-print("Your age is: ", age)
+print(type(name))
+print(type(age))
+print(type(prize))
+print(type(is_student))
