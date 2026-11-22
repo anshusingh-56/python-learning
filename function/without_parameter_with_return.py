@@ -5,3 +5,8 @@ def sum():
 
     c = a + b
     return c
+
+print("Prog statrs here")
+print(sum())
+ans = sum()
+print("Addition:", ans)
